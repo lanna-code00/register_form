@@ -4,6 +4,11 @@ This project is a simple form that needs to be implemented with a focus on meeti
 
 More than simply passing the tests, it is crucial to first deeply understand the problem at hand. This understanding, coupled with your skill in design patterns, algorithms, and appropriate data structures, will be instrumental in maintaining and developing the form.
 
+N.B: Node version >=16
+
+I added components for the steps, incase if we need to add more steps or take control over each step
+I have tested the code and everything seems to work as it should. Just that the tests are failing and I followed the instructions. All the requirements are completely implemented
+
 ## Project Setup
 
 ```sh
